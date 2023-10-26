@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    
+    <link href="StyleSheet1.css" rel="stylesheet" />
+</head>
+<body onload="creatCatagories()">
+    <h1 style="font-family:Calibri; font-size:100px;color:black;margin-left:35%">puma online</h1>
+
+    <div id="sal1">עגלה</div>
+    <br />
+    <br /><br />
+    <div id="main"></div>
+    <div id="open" style="position: absolute; left: 30%; right: 30%; z-index: 2"></div>
+  <center>
+      <div id="order" style=" text-align: center; position: absolute; display: none; left: 30%; right: 30%; z-index: 2; background-color: gray; font-family: Calibri; border: solid 2px black; ">
+          
+        <form action="tanks.html"  dir="rtl">
+            <label style="color:black;">הסכום לתשלום:</label><label id="m"></label>
+            
+            <fieldset >
+                <legend id="t"> פרטי לקוח</legend>
+                <input type="text" placeholder="שם פרטי" /><br />
+                <br />
+                <input type="text" placeholder="שם משפחה" /><br />
+                <br />
+                <input type="text" placeholder="מס' טלפון" maxlength="10" /><br />
+                <br />
+                <input type="email" placeholder="א-מייל" minlaght="10" maxlength="19"  /><br />
+                <br />בחר את עיר מגורך <br />
+                <br />
+                <select>
+                    <option> פתח תקווה</option>
+                    <option>בני ברק </option>
+                    <option>ירושלים</option>
+                    <option>נתניה</option>
+                    <option>תל אביב</option>
+                    <option>טבריה</option>
+                    <option>בת ים</option>
+                    <option>אשדוד</option>
+                    <option>מודיעין</option>
+                    <option>טבריה</option>
+                </select>
+                <fieldset style="position:center; margin:5% 20% 5% 20%;">
+                    <legend id="t">פרטי כרטיס אשראי</legend>
+                    <opera>
+                        <input type="date"  /><br />
+                    </opera>
+                    <br />
+                    <label style="width:auto">מספר כרטיס אשראי: </label><input type="text" placeholder="הקש מספר כרטיס" maxlength="12"  /><br /><br />
+                    <label style="width:auto"> 3 ספרות אחרונות בגב הכרטיס:</label><input type="text" placeholder="הקש 3 ספרות אחרונות" maxlength="3"  class="btn1" /><br /><br />
+                    <br />
+                    <input type="text" placeholder="שם בעל הכרטיס"  /><br />
+                    <br />
+                    <input type="text" placeholder="כתובת הגעת המשלוח" /><br />
+                    <br />
+                </fieldset>
+                <input type="reset" value="נקה טופס" />
+                <br />
+                <br />
+                <input type="submit" value="לתשלום" />
+                <br />
+            </fieldset>
+
+        </form>
+          </div>
+        </center>
+        <script src="JavaScript.js"></script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,315 @@
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\חנות תחפושות.dll.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\חנות תחפושות.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\חנות תחפושות.pdb
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\חנות תחפושות.xml
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\csc.exe
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\csc.exe.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\csc.rsp
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\csi.exe
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\csi.exe.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\csi.rsp
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.Managed.Core.targets
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.Win32.Primitives.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.AppContext.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Collections.Immutable.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Console.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Globalization.Calendars.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.IO.Compression.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.IO.Compression.ZipFile.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.IO.FileSystem.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Net.Http.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Net.Sockets.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Reflection.Metadata.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Threading.Tasks.Extensions.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.ValueTuple.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Xml.XmlDocument.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Xml.XPath.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\vbc.exe
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\vbc.exe.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\vbc.rsp
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\VBCSCompiler.exe
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\roslyn\VBCSCompiler.exe.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\obj\Debug\חנות_תחפושות.Resources.resources
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.GenerateResource.cache
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CopyComplete
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.xml
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.pdb
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.AssemblyReference.cache
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\avigail schory\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CoreCompileInputs.cache
+E:\חנות תחפושות\חנות תחפושות\bin\חנות תחפושות.dll.config
+E:\חנות תחפושות\חנות תחפושות\bin\חנות תחפושות.dll
+E:\חנות תחפושות\חנות תחפושות\bin\חנות תחפושות.pdb
+E:\חנות תחפושות\חנות תחפושות\bin\חנות תחפושות.xml
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\csc.exe
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\csc.exe.config
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\csc.rsp
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\csi.exe
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\csi.exe.config
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\csi.rsp
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.Managed.Core.targets
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.AppContext.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Collections.Immutable.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Console.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Globalization.Calendars.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.IO.Compression.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.IO.FileSystem.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Net.Http.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Net.Sockets.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Reflection.Metadata.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.ValueTuple.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Xml.XmlDocument.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Xml.XPath.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\vbc.exe
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\vbc.exe.config
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\vbc.rsp
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\VBCSCompiler.exe
+E:\חנות תחפושות\חנות תחפושות\bin\roslyn\VBCSCompiler.exe.config
+E:\חנות תחפושות\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\חנות תחפושות\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.AssemblyReference.cache
+E:\חנות תחפושות\חנות תחפושות\obj\Debug\חנות_תחפושות.Resources.resources
+E:\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.GenerateResource.cache
+E:\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CoreCompileInputs.cache
+E:\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CopyComplete
+E:\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.dll
+E:\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.xml
+E:\חנות תחפושות\חנות תחפושות\obj\Debug\חנות תחפושות.pdb
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\חנות תחפושות.dll.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\חנות תחפושות.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\חנות תחפושות.pdb
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\חנות תחפושות.xml
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\csc.exe
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\csc.exe.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\csc.rsp
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\csi.exe
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\csi.exe.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\csi.rsp
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.Managed.Core.targets
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\Microsoft.Win32.Primitives.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.AppContext.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Collections.Immutable.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Console.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Globalization.Calendars.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.IO.Compression.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.IO.Compression.ZipFile.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.IO.FileSystem.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Net.Http.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Net.Sockets.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Reflection.Metadata.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Threading.Tasks.Extensions.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.ValueTuple.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Xml.XmlDocument.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Xml.XPath.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\vbc.exe
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\vbc.exe.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\vbc.rsp
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\VBCSCompiler.exe
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\roslyn\VBCSCompiler.exe.config
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\obj\Debug\חנות_תחפושות.Resources.resources
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.GenerateResource.cache
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CopyComplete
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\obj\Debug\חנות תחפושות.dll
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\obj\Debug\חנות תחפושות.xml
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\obj\Debug\חנות תחפושות.pdb
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.AssemblyReference.cache
+M:\שנה א תשפב\JS\הגשת תרגילים יג1\simi heller\מושלם!\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CoreCompileInputs.cache
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\חנות תחפושות.dll.config
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\חנות תחפושות.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\חנות תחפושות.pdb
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\חנות תחפושות.xml
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csc.exe
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csc.exe.config
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csc.rsp
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csi.exe
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csi.exe.config
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csi.rsp
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.AppContext.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Collections.Immutable.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Console.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Globalization.Calendars.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.IO.Compression.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.IO.FileSystem.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Net.Http.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Net.Sockets.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Reflection.Metadata.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.ValueTuple.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Xml.XPath.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\vbc.exe
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\vbc.exe.config
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\vbc.rsp
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\VBCSCompiler.exe
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\VBCSCompiler.exe.config
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.AssemblyReference.cache
+D:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות_תחפושות.Resources.resources
+D:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.GenerateResource.cache
+D:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CoreCompileInputs.cache
+D:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CopyComplete
+D:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.dll
+D:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.xml
+D:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.pdb
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\חנות תחפושות.dll.config
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\חנות תחפושות.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\חנות תחפושות.pdb
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\חנות תחפושות.xml
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csc.exe
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csc.exe.config
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csc.rsp
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csi.exe
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csi.exe.config
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\csi.rsp
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.Managed.Core.targets
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.AppContext.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Collections.Immutable.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Console.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Globalization.Calendars.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.IO.Compression.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.IO.FileSystem.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Net.Http.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Net.Sockets.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Reflection.Metadata.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.ValueTuple.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Xml.XmlDocument.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Xml.XPath.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\vbc.exe
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\vbc.exe.config
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\vbc.rsp
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\VBCSCompiler.exe
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\roslyn\VBCSCompiler.exe.config
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.AssemblyReference.cache
+F:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות_תחפושות.Resources.resources
+F:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.GenerateResource.cache
+F:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CoreCompileInputs.cache
+F:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.vbproj.CopyComplete
+F:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.dll
+F:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.xml
+F:\WEB פורייקט שנה א\חנות תחפושות\obj\Debug\חנות תחפושות.pdb

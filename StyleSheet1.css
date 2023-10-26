@@ -1,0 +1,102 @@
+﻿body {
+    background-color: black;
+    background-image: url('שקופית1.JPG');
+    background-repeat:repeat-y;
+    background-size:cover
+   
+}
+.css1{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+}
+.css2 {
+    width: 20vw;
+    height: 30vw;
+    border: solid 5px black;
+    color: black;
+    margin-top: 6%;
+    font-size: 35px;
+    font-family: Calibri;
+    text-align: center;
+}
+.css3 {
+    width: 45vw;
+    height: 55vw;
+    border: solid 2px black;
+    color: white;
+    margin-top: 6%;
+    font-size: 35px;
+    font-family: Calibri;
+    text-align: center;
+    background-color: black;
+}
+    .css3 img {
+        width: 45vw;
+        height: 40vw;
+    }
+.css2 img{
+    width:20vw;
+    height:18vw;
+}
+.btn {
+    background-color: black;
+    width: 20vw;
+    height: 5vw;
+    border: solid 2px black;
+    color: white;
+    font-size: 180%;
+    font-family: Calibri;
+    margin-left: 4%;
+    border-radius:20%;
+}
+.sal {
+    height: 7%;
+    width: 20%;
+    background-color: black;
+    font-family: Calibri;
+    border: solid 2px black;
+    color: white;
+}
+#sal1 {
+    width: 17vw;
+    height: 50vw;
+    /*background-color: black;*/
+    border: solid 2px black;
+    color: black;
+    position: absolute;
+    font-size: 25px;
+    font-family: Calibri;
+    text-align: center;
+}
+#main {
+    width: 70vw;
+    height:70vw;
+    margin-left: 18vw;
+    position:absolute;
+}
+.rem {
+    border: solid 2px black;
+}
+.b {
+    background-color: white;
+    color: black;
+    width: 5vw;
+    height: 5vw;
+    /*border: solid 2px black;*/
+    border-radius:20%;
+    font-size:80%;
+}
+.open {
+    color: white;
+    width: 20vw;
+    height: 15vw;
+    border: solid 2px deeppink;
+    margin-top:7vw;
+    margin-left:15vw;
+}
+.b1{
+    margin-left:92%;
+    background-color:black;
+    color:white;
+}
